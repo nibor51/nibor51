@@ -4,7 +4,7 @@
 
 - ⚡ I love videogame, programming, roleplay, and books
 - 💡 I’m curious and I love to learn new things every day
-- 📖 I am currently training at the Wild Code School to become a web developer
+- 📖 I am a web developer
 - 📫 How to find me: 
   - <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20"/>  [LinkedIn](https://www.linkedin.com/in/robin-jonval/)
   - 📧 [Email](mailto:jonval.robin@gmail.com)
