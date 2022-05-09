@@ -24,6 +24,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="JavaScript" width="50" height="50"/>
 
 ---
 
