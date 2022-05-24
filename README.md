@@ -30,12 +30,8 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nibor51&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nibor51&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nibor51&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&hide=issues&custom_title=Nibor51\'s+GitHub+Stats)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nibor51&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&hide=issues&custom_title=Nibor51\'s+GitHub+Stats)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
 
 <!--
 **nibor51/nibor51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
